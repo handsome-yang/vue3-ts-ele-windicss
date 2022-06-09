@@ -1,0 +1,25 @@
+<!--
+ * @Author: yangdongyu
+ * @Date: 2022-06-08 17:42:32
+ * @LastEditors: yangdongyu
+ * @LastEditTime: 2022-06-08 17:45:24
+ * @FilePath: /xm-device-update/src/pages/supervise/components/VideoHistory.vue
+ * @Description: 
+ * 
+ * Copyright (c) 2022 by yangdongyu/小马国炬, All Rights Reserved. 
+-->
+<template>
+    <div>
+        hello video-history
+    </div>
+</template>
+
+<script lang="ts" setup>
+
+
+
+</script>
+
+<style lang="scss" scoped>
+    
+</style>
